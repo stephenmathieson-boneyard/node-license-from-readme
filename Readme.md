@@ -1,7 +1,11 @@
-
 # license-from-readme
 
   attempt to parse licenses out of a readme
+
+
+## Credits
+
+  This contains modified code from [@iandotkelly](https://github.com/iandotkelly)'s [nlf](https://github.com/iandotkelly/nlf)
 
 ## License 
 
