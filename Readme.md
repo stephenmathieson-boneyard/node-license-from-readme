@@ -1,8 +1,25 @@
 # license-from-readme
 
-  attempt to parse licenses out of a readme
+  Attempt to parse licenses out of a readme
 
 [![Build Status](https://travis-ci.org/stephenmathieson/node-license-from-readme.png)](https://travis-ci.org/stephenmathieson/node-license-from-readme)
+
+## API
+
+### `license(str)`
+
+Attempt to parse license(s) from `str`, returning an array of possibilities.
+
+## Example
+
+    var license = require('license-from-readme');
+    var fs = require('fs');
+    var readme = fs.readFileSync('./Readme.md', 'utf8');
+
+    var possibilities = license(readme);
+
+    console.log('licensed by', possibilities.join(','));
+
 
 ## Credits
 

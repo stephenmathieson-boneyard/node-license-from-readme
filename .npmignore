@@ -3,3 +3,4 @@ Makefile
 coverage.html
 lib-cov
 .travis.yml
+example.js
