@@ -2,3 +2,4 @@ test
 Makefile
 coverage.html
 lib-cov
+.travis.yml

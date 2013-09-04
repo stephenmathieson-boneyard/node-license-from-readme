@@ -2,6 +2,7 @@
 
   attempt to parse licenses out of a readme
 
+[![Build Status](https://travis-ci.org/stephenmathieson/node-license-from-readme.png)](https://travis-ci.org/stephenmathieson/node-license-from-readme)
 
 ## Credits
 
