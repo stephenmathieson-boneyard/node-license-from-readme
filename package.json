@@ -2,7 +2,11 @@
   "name": "license-from-readme",
   "version": "0.0.1",
   "description": "attempt to parse licenses out of a readme",
-  "keywords": [],
+  "keywords": [
+    "license",
+    "nlf",
+    "readme"
+  ],
   "author": "Stephen Mathieson <me@stephenmathieson.com>",
   "repository": {
     "type": "git",
