@@ -1,6 +1,6 @@
 {
   "name": "license-from-readme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "attempt to parse licenses out of a readme",
   "keywords": [
     "license",
